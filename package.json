@@ -1,0 +1,19 @@
+{
+  "name": "differentvote",
+  "version": "1.0.0",
+  "description": "An app to allow users to vote using a weighted system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitekcharles/differentvote.git"
+  },
+  "author": "Charles Pitek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pitekcharles/differentvote/issues"
+  },
+  "homepage": "https://github.com/pitekcharles/differentvote#readme"
+}
