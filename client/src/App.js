@@ -1,8 +1,13 @@
 import React from 'react';
+import Title from "./components/Title";
+import Options from "./components/Options";
 
 function App() {
   return (
-    <h1>testing</h1>
+    <>
+      <Title />
+      <Options />
+    </>
   );
 }
 
